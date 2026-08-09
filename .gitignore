@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Build outputs — regenerate with scripts/02_build_artifacts.py.
+# The geojson is kept (see README) because the upstream source is a third-party
+# repo that could move, and a broken map is a worse failure than 500 KB in git.
+data/processed/risk_model.joblib
+data/processed/model_card.json
+
+# The 4.6 MB unsimplified boundary download
+data/raw/bd_districts_raw.geojson
+myenv/
+myenv/

@@ -1,0 +1,258 @@
+{
+  "bagerhat": {
+    "lat": 22.53149,
+    "lon": 89.75654
+  },
+  "bandarban": {
+    "lat": 21.77189,
+    "lon": 92.3863
+  },
+  "barguna": {
+    "lat": 22.17276,
+    "lon": 90.20497
+  },
+  "barishal": {
+    "lat": 22.76107,
+    "lon": 90.32463
+  },
+  "bhola": {
+    "lat": 22.39338,
+    "lon": 90.76401
+  },
+  "bogura": {
+    "lat": 24.82856,
+    "lon": 89.33556
+  },
+  "brahmanbaria": {
+    "lat": 23.96101,
+    "lon": 91.11746
+  },
+  "chandpur": {
+    "lat": 23.23798,
+    "lon": 90.83767
+  },
+  "chapai nawabganj": {
+    "lat": 24.69842,
+    "lon": 88.26411
+  },
+  "chattogram": {
+    "lat": 22.42387,
+    "lon": 92.03698
+  },
+  "chuadanga": {
+    "lat": 23.59735,
+    "lon": 88.81931
+  },
+  "cox's bazar": {
+    "lat": 21.34842,
+    "lon": 92.08556
+  },
+  "cumilla": {
+    "lat": 23.41983,
+    "lon": 91.07811
+  },
+  "dhaka": {
+    "lat": 23.77846,
+    "lon": 90.35771
+  },
+  "dinajpur": {
+    "lat": 25.64108,
+    "lon": 88.7267
+  },
+  "faridpur": {
+    "lat": 23.46579,
+    "lon": 89.87086
+  },
+  "feni": {
+    "lat": 23.0208,
+    "lon": 91.40195
+  },
+  "gaibandha": {
+    "lat": 25.34645,
+    "lon": 89.53374
+  },
+  "gazipur": {
+    "lat": 24.09314,
+    "lon": 90.4075
+  },
+  "gopalganj": {
+    "lat": 23.10809,
+    "lon": 89.86316
+  },
+  "habiganj": {
+    "lat": 24.34764,
+    "lon": 91.42515
+  },
+  "jamalpur": {
+    "lat": 24.99986,
+    "lon": 89.77764
+  },
+  "jashore": {
+    "lat": 23.08388,
+    "lon": 89.13465
+  },
+  "jhalokati": {
+    "lat": 22.56319,
+    "lon": 90.17468
+  },
+  "jhenaidah": {
+    "lat": 23.49025,
+    "lon": 89.12399
+  },
+  "joypurhat": {
+    "lat": 25.06153,
+    "lon": 89.09218
+  },
+  "khagrachhari": {
+    "lat": 23.21622,
+    "lon": 91.96148
+  },
+  "khulna": {
+    "lat": 22.51193,
+    "lon": 89.41569
+  },
+  "kishoreganj": {
+    "lat": 24.33616,
+    "lon": 90.92603
+  },
+  "kurigram": {
+    "lat": 25.79612,
+    "lon": 89.64486
+  },
+  "kushtia": {
+    "lat": 23.94138,
+    "lon": 89.02691
+  },
+  "lakshmipur": {
+    "lat": 22.86671,
+    "lon": 90.86548
+  },
+  "lalmonirhat": {
+    "lat": 26.12161,
+    "lon": 89.16129
+  },
+  "madaripur": {
+    "lat": 23.23137,
+    "lon": 90.13368
+  },
+  "magura": {
+    "lat": 23.46395,
+    "lon": 89.45527
+  },
+  "manikganj": {
+    "lat": 23.83433,
+    "lon": 89.95022
+  },
+  "maulvibazar": {
+    "lat": 24.46895,
+    "lon": 91.88449
+  },
+  "meherpur": {
+    "lat": 23.79265,
+    "lon": 88.70285
+  },
+  "munshiganj": {
+    "lat": 23.52484,
+    "lon": 90.43507
+  },
+  "mymensingh": {
+    "lat": 24.72431,
+    "lon": 90.41632
+  },
+  "naogaon": {
+    "lat": 24.87358,
+    "lon": 88.74003
+  },
+  "narail": {
+    "lat": 23.13118,
+    "lon": 89.52831
+  },
+  "narayanganj": {
+    "lat": 23.71407,
+    "lon": 90.61838
+  },
+  "narsingdi": {
+    "lat": 24.00877,
+    "lon": 90.80955
+  },
+  "natore": {
+    "lat": 24.39561,
+    "lon": 89.09029
+  },
+  "netrakona": {
+    "lat": 24.87783,
+    "lon": 90.83722
+  },
+  "nilphamari": {
+    "lat": 26.01937,
+    "lon": 88.92025
+  },
+  "noakhali": {
+    "lat": 22.79142,
+    "lon": 91.12547
+  },
+  "pabna": {
+    "lat": 24.07766,
+    "lon": 89.34026
+  },
+  "panchagarh": {
+    "lat": 26.31961,
+    "lon": 88.54679
+  },
+  "patuakhali": {
+    "lat": 22.25966,
+    "lon": 90.45953
+  },
+  "pirojpur": {
+    "lat": 22.53263,
+    "lon": 90.00179
+  },
+  "rajbari": {
+    "lat": 23.73355,
+    "lon": 89.57689
+  },
+  "rajshahi": {
+    "lat": 24.41216,
+    "lon": 88.59955
+  },
+  "rangamati": {
+    "lat": 22.79173,
+    "lon": 92.22364
+  },
+  "rangpur": {
+    "lat": 25.6295,
+    "lon": 89.26104
+  },
+  "satkhira": {
+    "lat": 22.4726,
+    "lon": 89.13364
+  },
+  "shariatpur": {
+    "lat": 23.2252,
+    "lon": 90.42489
+  },
+  "sherpur": {
+    "lat": 25.09194,
+    "lon": 90.0956
+  },
+  "sirajganj": {
+    "lat": 24.4016,
+    "lon": 89.5213
+  },
+  "sunamganj": {
+    "lat": 24.8892,
+    "lon": 91.38284
+  },
+  "sylhet": {
+    "lat": 24.88924,
+    "lon": 91.96187
+  },
+  "tangail": {
+    "lat": 24.36771,
+    "lon": 89.99704
+  },
+  "thakurgaon": {
+    "lat": 25.93726,
+    "lon": 88.3115
+  }
+}

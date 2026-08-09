@@ -1,0 +1,17 @@
+# Streamlit's own chrome sits outside the injected stylesheet, so the tokens
+# are declared twice: here for widget internals, and in src/theme.py for
+# everything the CSS can reach. Keep the two in sync.
+[theme]
+base = "dark"
+primaryColor = "#35C4B5"
+backgroundColor = "#0C1B22"
+secondaryBackgroundColor = "#122730"
+textColor = "#E8F1EF"
+font = "sans serif"
+
+[server]
+maxUploadSize = 20
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
