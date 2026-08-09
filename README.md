@@ -24,10 +24,10 @@ Built on BDHS 2022 (14,167 adults, 674 sampling clusters, 64 districts).
 
 | | |
 |---|---|
-| `docs/img/01-map.png` | `docs/img/02-peers.png` |
-| `docs/img/03-drivers.png` | `docs/img/04-intervention.png` |
+| `[docs/img/01-map.png](https://drive.google.com/file/d/1i_TrtCZawgb7YcwWmUc9ekoI5cQFuBvq/view?usp=sharing)` | `https://drive.google.com/file/d/1RRh51erjyfuPLfj22rxYE5Afw41apc4v/view?usp=sharing` |
+| `[docs/img/03-drivers.png](https://drive.google.com/file/d/12cRy85bW4qDeFrYtoJCBk3xEz5PbhRWB/view?usp=sharing)` | `[docs/img/04-intervention.png](https://drive.google.com/file/d/1f2vl25dbVhjYOb8s1fKW90I7uPJPH2Oo/view?usp=sharing)` |
 
-**Live demo:** _add your Streamlit Community Cloud URL here_
+**Live demo:** [_add your Streamlit Community Cloud URL here_](https://diabetesintervenebd-gmk7pukpmt2mgaaym3o4nl.streamlit.app/)
 
 ---
 
