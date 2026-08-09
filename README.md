@@ -24,8 +24,8 @@ Built on BDHS 2022 (14,167 adults, 674 sampling clusters, 64 districts).
 
 | | |
 |---|---|
-| ![image alt](https://github.com/AntuKumar100/DiabetesInterveneBD/blob/main/1.png?raw=true) |  |
-|  | ![image alt](https://github.com/AntuKumar100/DiabetesInterveneBD/blob/main/4.png?raw=true) |
+| ![image alt](https://github.com/AntuKumar100/DiabetesInterveneBD/blob/main/1.png?raw=true) | ![image alt](https://github.com/AntuKumar100/DiabetesInterveneBD/blob/main/3.png?raw=true) |
+| ![image alt](https://github.com/AntuKumar100/DiabetesInterveneBD/blob/main/2.png?raw=true) | ![image alt](https://github.com/AntuKumar100/DiabetesInterveneBD/blob/main/4.png?raw=true) |
 
 **Live demo:** [_DiabetesInterveneBD Application_](https://diabetesintervenebd-gmk7pukpmt2mgaaym3o4nl.streamlit.app/)
 
