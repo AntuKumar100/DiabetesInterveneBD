@@ -238,7 +238,9 @@ using replication techniques. *Statistical Methods in Medical Research*, 5(3).
 
 ## Author
 
-Amartay Kumar Dhar — Jahangirnagar University
+Amartay Kumar Dhar
+Department of Statistics and Data Science, Jahangirnagar University
+Email: antukumardhar100@gmail.com
 
 ## License
 
