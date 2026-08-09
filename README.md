@@ -1,4 +1,4 @@
-# InterveneBD
+# DiabetesInterveneBD
 
 **Visual analytics for geographic targeting of diabetes interventions in Bangladesh.**
 
