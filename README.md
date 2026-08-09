@@ -242,4 +242,4 @@ Amartay Kumar Dhar — Jahangirnagar University
 
 ## License
 
-MIT for the code. The survey data is governed by the DHS Program's terms of use.
+The survey data is governed by the DHS Program's terms of use.
